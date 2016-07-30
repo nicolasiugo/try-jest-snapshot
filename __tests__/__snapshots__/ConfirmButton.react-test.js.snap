@@ -1,0 +1,71 @@
+exports[`ConfirmButton changes the class when clicked 1`] = `
+<div
+  className="confirm-button">
+  <div
+    className=" action_class"
+    onClick={[Function bound onAccept]}>
+    Important action
+  </div>
+  <div
+    className="hide confirm_class">
+    Are you sure? 
+    <a
+      onClick={[Function bound onAccept]}>
+      Yes
+    </a>
+     
+    <a
+      onClick={[Function bound onAccept]}>
+      Cancel
+    </a>
+  </div>
+</div>
+`;
+
+exports[`ConfirmButton changes the class when clicked 2`] = `
+<div
+  className="confirm-button">
+  <div
+    className="hide action_class"
+    onClick={[Function bound onAccept]}>
+    Important action
+  </div>
+  <div
+    className=" confirm_class">
+    Are you sure? 
+    <a
+      onClick={[Function bound onAccept]}>
+      Yes
+    </a>
+     
+    <a
+      onClick={[Function bound onAccept]}>
+      Cancel
+    </a>
+  </div>
+</div>
+`;
+
+exports[`ConfirmButton should render ConfirmButton component 1`] = `
+<div
+  className="confirm-button">
+  <div
+    className=" action_class"
+    onClick={[Function bound onAccept]}>
+    Important action
+  </div>
+  <div
+    className="hide confirm_class">
+    Are you sure? 
+    <a
+      onClick={[Function bound onAccept]}>
+      Yes
+    </a>
+     
+    <a
+      onClick={[Function bound onAccept]}>
+      Cancel
+    </a>
+  </div>
+</div>
+`;
